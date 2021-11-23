@@ -28,5 +28,19 @@ Opportunities: Tech based market always attract th youth.
 
 Threat: Slower growth in an innovation always threat for the company in this dynamic world
 
+#High level requirement: 1.System needs a security system to prevent data.
+
+2.System needs to have search area.
+
+3.System needs to maintain the quality record.
+
+4.System needs to update and delete the data.
+
+#Low level requirement :  1.System needs to store information about new entry of contact.
+
+2.System needs to help the internal staff to keep information of credentials and find them as per various queries.
+
+3.System needs to keep the record of telephone.
+
 
 
